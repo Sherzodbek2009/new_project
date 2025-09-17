@@ -1,0 +1,1 @@
+#Sinov uchun birinchi proyekt
